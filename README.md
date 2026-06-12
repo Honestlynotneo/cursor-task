@@ -71,3 +71,24 @@ issue 1: Extention Login Delay
 -Watched a Youtube tutorial on how to solve the issue.
 -Restarted Cursor IDE logged in again.
 
+
+# AI-Powered SEO Content Production — Research Repository
+ 
+**Topic:** AI-Powered SEO Content Production for B2B SaaS  
+**Researcher:** Claude (Anthropic)  
+**Started:** June 12, 2026  
+**Status:** 🟢 Active
+ 
+---
+ 
+## Why This Topic?
+ 
+AI-powered SEO content production is the highest-leverage intersection in B2B marketing right now. Traditional content factories are dying — Google's AI Overviews, LLM-based search, and zero-click behavior are forcing companies to rethink how they produce, structure, and distribute content at scale. The practitioners worth studying aren't theorists; they're operators running real programs at real companies with measurable traffic outcomes.
+ 
+This research is designed to produce a usable playbook for a B2B SaaS company that wants to:
+- Build a scalable content engine with AI (not just sprinkle AI onto old workflows)
+- Win visibility in both classic SERPs and AI-generated answers
+- Convert organic traffic into pipeline, not just pageviews
+---
+
+
