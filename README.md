@@ -71,6 +71,7 @@ issue 1: Extention Login Delay
 -Watched a Youtube tutorial on how to solve the issue.
 -Restarted Cursor IDE logged in again.
 
+---
 
 # AI-Powered SEO Content Production — Research Repository
  
@@ -108,4 +109,25 @@ This research is designed to produce a usable playbook for a B2B SaaS company th
  
 ---
 
-
+/research
+  sources.md                 
+  /linkedin-posts            
+    kevin-indig.md
+    eli-schwartz.md
+    nick-jordan.md
+    brendan-hufford.md
+    aleyda-solis.md
+    bernard-huang.md
+    anthony-pierri.md
+    kyle-byers.md
+    liz-willits.md
+    ross-hudgens.md
+  /youtube-transcripts       
+    kevin-indig-ai-overviews.md
+    aleyda-solis-crawling-mondays-ai.md
+    nick-jordan-content-ops.md
+    eli-schwartz-lenny-podcast.md
+  /other                     
+    growth-memo-selections.md
+    seofomo-annotations.md
+    case-studies.md
