@@ -91,4 +91,21 @@ This research is designed to produce a usable playbook for a B2B SaaS company th
 - Convert organic traffic into pipeline, not just pageviews
 ---
 
+## The 10 Experts
+ 
+| # | Name | Primary Platform | Unique Angle |
+|---|------|-----------------|--------------|
+| 1 | Kevin Indig | Newsletter (Growth Memo) + SEJ | AI overviews, programmatic SEO, operator frameworks |
+| 2 | Eli Schwartz | Newsletter + Lenny's Podcast | Product-led SEO — user intent over keywords |
+| 3 | Nick Jordan | LinkedIn + YouTube (ContentDistribution.com) | Content ops at scale without backlinks |
+| 4 | Brendan Hufford | Blog + LinkedIn (Growth Sprints) | Content IP framework, AEO for B2B |
+| 5 | Aleyda Solis | YouTube (Crawling Mondays) + Newsletter (SEOFOMO) | Technical + AI search, international SEO |
+| 6 | Bernard Huang | YouTube + LinkedIn (Clearscope) | Content optimization tooling, quality signals |
+| 7 | Anthony Pierrī | LinkedIn + Newsletter | Programmatic SEO, AI content at scale |
+| 8 | Kyle Byers | Blog (Semrush) + LinkedIn | Data-driven SEO research, AI tool benchmarking |
+| 9 | Liz Willits | LinkedIn + Newsletter | SaaS content strategy, conversion-focused SEO |
+| 10 | Ross Hudgens | LinkedIn + Podcast (Siege Media) | Content-driven link acquisition + SaaS SEO |
+ 
+---
+
 
