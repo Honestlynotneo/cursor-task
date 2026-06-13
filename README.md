@@ -83,10 +83,9 @@ issue 1: Extention Login Delay
 
 ---
 
-# AI-Powered SEO Content Production — Research Repository
+# AI-Powered SEO Content Production
 
 **Topic:** AI-Powered SEO Content Production for B2B SaaS  
-**Researcher:** Abhishek krishnan U  
 **Started:** June 12, 2026  
 
 ---
