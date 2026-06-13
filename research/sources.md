@@ -24,8 +24,6 @@ Format: Name → Platform → Why → Links → Last verified date
 - Growth Memo programmatic SEO playbook (2023)
 - LinkedIn posts on AI Overviews vs. traditional traffic
 
-
-
 ### Key Sources — Kevin Indig
 
 
@@ -41,9 +39,6 @@ Format: Name → Platform → Why → Links → Last verified date
 | **LI**   | [Programmatic SEO post (57 comments)](https://www.linkedin.com/posts/kevinindig_seo-programmaticseo-ai-activity-7082354507581444097-2uT8)         | LinkedIn   | Jul 2023 |
 | **PC**   | [Future of SEO in an AI-First World — Churn.fm](https://www.churn.fm/episode/the-future-of-seo-in-an-ai-first-world-with-kevin-indig)             | Podcast    | 2025     |
 | **PC**   | [Optimize Podcast #065 — AI Overviews & Core Update](https://www.positional.com/podcast/kevin-indig-65)                                           | Podcast    | Aug 2024 |
-
-
-  
 
 
 **Last verified:** June 2026
@@ -68,8 +63,6 @@ Format: Name → Platform → Why → Links → Last verified date
 - LinkedIn posts on content strategy in AI search
 - SEJ + Moz contributions on product-led SEO framework
 
-
-
 ### Key Sources — Eli Schwartz
 
 
@@ -81,10 +74,6 @@ Format: Name → Platform → Why → Links → Last verified date
 | **LI**   | [AI could end SEO? (219 comments)](https://www.linkedin.com/posts/schwartze_seo-google-ai-activity-7065393317970128896-KKMW)                                  | LinkedIn   | May 2023 |
 | **LI**   | [Programmatic SEO is NOT Product-Led SEO](https://www.linkedin.com/posts/schwartze_programmatic-seo-is-not-product-led-seo-activity-7160655947831373824-p8E9) | LinkedIn   | 2024     |
 | **LI**   | [How Product-Led AEO adapts to AI](https://www.linkedin.com/posts/schwartze_instead-of-obsessing-over-being-mentioned-activity-7393308892971200512-_qZ_)      | LinkedIn   | 2025     |
-
-
-  
-  
 
 
 **Last verified:** June 2026
@@ -127,10 +116,6 @@ Format: Name → Platform → Why → Links → Last verified date
 | **YT**   | [0→100k Organic Views Without Backlinks (Niche Pursuits)](https://www.youtube.com/watch?v=wW_t3btaxAk)                                                                                | YouTube    | Mar 2022 |
 
 
-
-
-
-
 **Last verified:** June 2026
 
 ---
@@ -171,10 +156,6 @@ Format: Name → Platform → Why → Links → Last verified date
 | **LI**   | [AEO tracking — 100+ prompts per client engagement](https://www.linkedin.com/in/brendanhufford)                                                    | LinkedIn   | 2025     |
 
 
-
-
-
-
 **Last verified:** June 2026
 
 ---
@@ -211,10 +192,6 @@ Format: Name → Platform → Why → Links → Last verified date
 | **NL**   | [SEOFOMO — 35,000+ subscribers weekly](https://www.seofomo.co)                                               | Newsletter | Ongoing  |
 | **AR**   | [Avoid common AI search SEO mistakes — Search Engine Land](https://searchengineland.com/author/aleyda-solis) | Article    | Nov 2025 |
 | **AR**   | [Crawling Mondays episode archive](https://www.aleydasolis.com/en/crawling-mondays-videos/)                  | Article    | Ongoing  |
-
-
-
-
 
 
 **Last verified:** June 2026
@@ -320,5 +297,19 @@ Format: Name → Platform → Why → Links → Last verified date
 - Posts on AI content and link acquisition compatibility
 - "What makes SaaS content linkable in 2025" — blog
 - LinkedIn threads on content ROI measurement
+
+### Key Sources — Ross Hudgens
+
+
+|          |                                                                                                 |            |          |
+| -------- | ----------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                 | **Format** | **Date** |
+| **LI**   | [Linkable content framework posts — active publisher](https://www.linkedin.com/in/rosshudgens/) | LinkedIn   | 2024–25  |
+| **AR**   | [Siege Media blog — SaaS content + link strategy](https://www.siegemedia.com/blog)              | Article    | Ongoing  |
+
+
+
+
+
 
 **Last verified:** June 2026
