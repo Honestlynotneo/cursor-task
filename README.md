@@ -89,7 +89,6 @@ issue 1: Extention Login Delay
 **Researcher:** Abhishek krishnan U  
 **Started:** June 12, 2026  
 
-
 ---
 
 ## Why This Topic?
@@ -122,8 +121,6 @@ This research is designed to produce a usable playbook for a B2B SaaS company th
 
 
 ---
-
-
 
 # Why These Experts?
 
@@ -295,3 +292,161 @@ These experts were chosen because they:
 6. Adapt their methods to the AI search era.
 
 Together, they form a complete end-to-end system for AI-powered SEO content production in 2026.
+
+---
+
+
+
+## What I Collected
+
+I researched 10 practitioners in AI-powered SEO content production and collected information from five main sources.
+
+### 1. LinkedIn Posts
+
+Collected:
+
+- Recent posts
+- Frameworks
+- Case studies
+- Discussions and comments
+
+Examples:
+
+- Nick Jordan's 0→119k organic traffic case study
+- Brendan Hufford's AEO and Content IP posts
+- Kevin Indig's AI search observations
+
+Purpose:
+
+To understand what practitioners are currently testing and implementing.
+
+---
+
+### 2. YouTube Videos
+
+Collected:
+
+- Interviews
+- Podcast videos
+- Educational content
+- Episode summaries and transcripts
+
+Examples:
+
+- Crawling Mondays (Aleyda Solis)
+- Nick Jordan interviews
+- Clearscope content optimization videos
+
+Purpose:
+
+To extract workflows and detailed explanations.
+
+---
+
+### 3. Blogs and Articles
+
+Collected:
+
+- Research studies
+- Long-form articles
+- Technical guides
+- Framework explanations
+
+Examples:
+
+- Search Engine Land articles by Kevin Indig
+- Growth Sprints articles by Brendan Hufford
+- Semrush research by Kyle Byers
+- Siege Media blog articles by Ross Hudgens
+
+Purpose:
+
+To gather documented frameworks and supporting evidence.
+
+---
+
+### 4. Newsletters
+
+Collected:
+
+- Growth Memo
+- SEOFOMO
+- Semrush publications
+- Industry research newsletters
+
+Purpose:
+
+To capture recent developments in AI search and SEO.
+
+---
+
+### 5. Podcasts
+
+Collected:
+
+- Lenny's Podcast
+- Marketing Powerups
+- [Churn.fm](http://Churn.fm)
+- Marketing Speak
+- SEO Freelancer Podcast
+
+Purpose:
+
+To understand the reasoning behind each expert's approach and capture real-world examples.
+
+---
+
+# Information Extracted
+
+From every source, I extracted:
+
+### Core Arguments
+
+The central idea each expert is known for.
+
+Examples:
+
+- Kevin Indig → AI visibility and citation behavior.
+- Eli Schwartz → Product-Led SEO.
+- Brendan Hufford → Content IP and customer research.
+
+---
+
+### Frameworks
+
+Examples:
+
+- Product-Led SEO
+- Content IP
+- 3S Strategy
+- Evidence Layer
+- Conversion Pass
+
+---
+
+### Case Studies
+
+Examples:
+
+- 846k-session AI search study
+- 0→350k organic traffic growth
+- $1M+ pipeline generated
+- $134k/month traffic value
+
+---
+
+### Quotes and Insights
+
+Important statements and observations from articles, podcasts, and videos.
+
+---
+
+### Statistics
+
+Collected industry data including:
+
+- 900M ChatGPT weekly users
+- 93% AI Mode no-click sessions
+- 62% invisible brand citations
+- 11.4% AI referral conversion rate
+
