@@ -70,24 +70,20 @@ Format: Name → Platform → Why → Links → Last verified date
 
 
 
-### Key Sources — Brendan Hufford
+### Key Sources — Eli Schwartz
 
 
-|          |                                                                                                                                                    |            |          |
-| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
-| **Type** | **Title / URL**                                                                                                                                    | **Format** | **Date** |
-| **AR**   | [Content IP: The Framework That Generated $1M+ in Pipeline](https://growthsprints.co/content-ip/)                                                  | Article    | Feb 2025 |
-| **AR**   | [The 3S Strategy — How to Win SEO/AEO without keyword tools](https://growthsprints.co/3s-strategy/)                                                | Article    | Apr 2026 |
-| **AR**   | [7 Best SaaS AEO Consultants in 2026](https://growthsprints.co/best-saas-aeo-consultants/)                                                         | Article    | Jun 2026 |
-| **AR**   | [How Help Scout Gets Customers (30M+ ARR)](https://growthsprints.co/help-scout/)                                                                   | Article    | Sep 2024 |
-| **AR**   | [How ActiveCampaign Gets Customers ($250M ARR)](https://growthsprints.co/activecampaign/)                                                          | Article    | Jun 2024 |
-| **PC**   | [Marketing Powerups: Content IP Framework ($134k/month traffic)](https://www.marketingpowerups.com/podcast/brendan-huffords-content-ip-framework/) | Podcast    | May 2023 |
-| **YT**   | [Marketing Powerups: Content IP Framework — full video](https://youtu.be/giG9dkpO9Co)                                                              | YouTube    | May 2023 |
-| **PC**   | [SaaS SEO Show #29 — Growth Sprints methodology](https://www.youtube.com/watch?v=twjfVCEyI6c)                                                      | Podcast    | May 2022 |
-| **PC**   | [Closing Time (Insightly): Efficient growth in B2B](https://www.insightly.com/episodes/efficient-growth-in-b2b/)                                   | Podcast    | Mar 2024 |
-| **LI**   | [AEO tracking — 100+ prompts per client engagement](https://www.linkedin.com/in/brendanhufford)                                                    | LinkedIn   | 2025     |
+|          |                                                                                                                                                               |            |          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                                                                               | **Format** | **Date** |
+| **PC**   | [Lenny’s Podcast: Rethinking SEO in the Age of AI (1h 55m)](https://www.lennysnewsletter.com/p/rethinking-seo-in-the-age-of-ai-eli-schwartz)                  | Podcast    | Sep 2024 |
+| **PC**   | [Marketing Speak: The Future of Search Is Product-Led](https://www.marketingspeak.com/the-future-of-search-is-product-led-with-eli-schwartz/)                 | Podcast    | Mar 2026 |
+| **LI**   | [AI could end SEO? (219 comments)](https://www.linkedin.com/posts/schwartze_seo-google-ai-activity-7065393317970128896-KKMW)                                  | LinkedIn   | May 2023 |
+| **LI**   | [Programmatic SEO is NOT Product-Led SEO](https://www.linkedin.com/posts/schwartze_programmatic-seo-is-not-product-led-seo-activity-7160655947831373824-p8E9) | LinkedIn   | 2024     |
+| **LI**   | [How Product-Led AEO adapts to AI](https://www.linkedin.com/posts/schwartze_instead-of-obsessing-over-being-mentioned-activity-7393308892971200512-_qZ_)      | LinkedIn   | 2025     |
 
 
+  
   
 
 
@@ -115,6 +111,26 @@ Format: Name → Platform → Why → Links → Last verified date
 - Case study: Skiff.com 0→65k, acquired by Notion
 - Case study: ClickUp 350+ pages program
 
+### Key Sources — Nick Jordan
+
+
+|          |                                                                                                                                                                                       |            |          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                                                                                                       | **Format** | **Date** |
+| **LI**   | [0→119k organics / $1.6M ARR case study (no backlinks)](https://www.linkedin.com/posts/nickfromseattle_the-best-directors-of-seo-have-a-background-activity-7097577808347975680-YYuc) | LinkedIn   | Aug 2023 |
+| **LI**   | [AI content de-ranking debate (84 comments)](https://www.linkedin.com/posts/nickfromseattle_google-is-actively-trying-to-de-rank-ai-content-activity-7021098946991206400-Jw_r)        | LinkedIn   | Jan 2023 |
+| **LI**   | [Full tech stack disclosure](https://fi.linkedin.com/posts/nickfromseattle_just-ran-a-website-migration-and-feeling-activity-7016750351038996480-asyj)                                | LinkedIn   | Jan 2023 |
+| **PC**   | [SEO Freelancer: 1M+ LinkedIn impressions — full transcript](https://seofreelancer.substack.com/p/nick-jordan)                                                                        | Podcast    | Jan 2023 |
+| **YT**   | [0 to 530,000 monthly organic visitors in 17 months](https://www.youtube.com/watch?v=AyZWuEG3sFQ)                                                                                     | YouTube    | Apr 2021 |
+| **YT**   | [Cracking the Content Code: quality at scale [Ep.125]](https://www.youtube.com/watch?v=YMlSIu6OqQc)                                                                                   | YouTube    | Apr 2023 |
+| **YT**   | [Crushing SEO without Backlinks (DTC Podcast ep.36)](https://www.youtube.com/watch?v=ZaT1BajuLKQ)                                                                                     | YouTube    | Oct 2020 |
+| **YT**   | [0→100k Organic Views Without Backlinks (Niche Pursuits)](https://www.youtube.com/watch?v=wW_t3btaxAk)                                                                                | YouTube    | Mar 2022 |
+
+
+
+
+
+
 **Last verified:** June 2026
 
 ---
@@ -136,6 +152,28 @@ Format: Name → Platform → Why → Links → Last verified date
 - "What AEO means for B2B in 2026" — LinkedIn Live May 2026
 - LinkedIn posts on checkbox marketing, pain-point SEO failure modes
 - "How [company] gets customers" case study series
+
+### Key Sources — Brendan Hufford
+
+
+|          |                                                                                                                                                    |            |          |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                                                                    | **Format** | **Date** |
+| **AR**   | [Content IP: The Framework That Generated $1M+ in Pipeline](https://growthsprints.co/content-ip/)                                                  | Article    | Feb 2025 |
+| **AR**   | [The 3S Strategy — How to Win SEO/AEO without keyword tools](https://growthsprints.co/3s-strategy/)                                                | Article    | Apr 2026 |
+| **AR**   | [7 Best SaaS AEO Consultants in 2026](https://growthsprints.co/best-saas-aeo-consultants/)                                                         | Article    | Jun 2026 |
+| **AR**   | [How Help Scout Gets Customers (30M+ ARR)](https://growthsprints.co/help-scout/)                                                                   | Article    | Sep 2024 |
+| **AR**   | [How ActiveCampaign Gets Customers ($250M ARR)](https://growthsprints.co/activecampaign/)                                                          | Article    | Jun 2024 |
+| **PC**   | [Marketing Powerups: Content IP Framework ($134k/month traffic)](https://www.marketingpowerups.com/podcast/brendan-huffords-content-ip-framework/) | Podcast    | May 2023 |
+| **YT**   | [Marketing Powerups: Content IP Framework — full video](https://youtu.be/giG9dkpO9Co)                                                              | YouTube    | May 2023 |
+| **PC**   | [SaaS SEO Show #29 — Growth Sprints methodology](https://www.youtube.com/watch?v=twjfVCEyI6c)                                                      | Podcast    | May 2022 |
+| **PC**   | [Closing Time (Insightly): Efficient growth in B2B](https://www.insightly.com/episodes/efficient-growth-in-b2b/)                                   | Podcast    | Mar 2024 |
+| **LI**   | [AEO tracking — 100+ prompts per client engagement](https://www.linkedin.com/in/brendanhufford)                                                    | LinkedIn   | 2025     |
+
+
+
+
+
 
 **Last verified:** June 2026
 
@@ -159,6 +197,25 @@ Format: Name → Platform → Why → Links → Last verified date
 - SEOFOMO newsletter editions on LLM visibility
 - LinkedIn posts on visual semantics for AI search
 - Athens SEO 2026 presentation on evidence-to-click optimization
+
+### Key Sources — Aleyda Solis
+
+
+|          |                                                                                                              |            |          |
+| -------- | ------------------------------------------------------------------------------------------------------------ | ---------- | -------- |
+| **Type** | **Title / URL**                                                                                              | **Format** | **Date** |
+| **YT**   | [Crawling Mondays — full channel](https://www.youtube.com/c/crawlingmondaysbyaleyda)                         | YouTube    | Ongoing  |
+| **YT**   | [Top SEO tip for 2026 (12+ specialists)](https://www.youtube.com/watch?v=al-FuoXXQCs)                        | YouTube    | Dec 2025 |
+| **YT**   | [SEO Predictions 2026 (20+ specialists)](https://www.youtube.com/watch?v=yrJe9E08llc)                        | YouTube    | Dec 2025 |
+| **YT**   | [AI search crawlability — Humans of Martech ep.202](https://www.youtube.com/watch?v=pqrwpXpMM6s)             | YouTube    | Jan 2026 |
+| **NL**   | [SEOFOMO — 35,000+ subscribers weekly](https://www.seofomo.co)                                               | Newsletter | Ongoing  |
+| **AR**   | [Avoid common AI search SEO mistakes — Search Engine Land](https://searchengineland.com/author/aleyda-solis) | Article    | Nov 2025 |
+| **AR**   | [Crawling Mondays episode archive](https://www.aleydasolis.com/en/crawling-mondays-videos/)                  | Article    | Ongoing  |
+
+
+
+
+
 
 **Last verified:** June 2026
 
